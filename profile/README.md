@@ -45,8 +45,11 @@ Visual design, spatial intelligence, ArcGIS, Tableau, dashboards, and evidence-b
 
 ## About
 
-These materials support teaching in **Intelligence Analysis at James Madison University** and are maintained as open educational resources for students and other learners.
+These materials support teaching in the **School of Integrated Sciences at James Madison University** and are maintained as open educational resources for students and other learners.
 
+**Dr. Xuebin Wei** is an Associate Professor of Geography and Intelligence Analysis in JMU's School of Integrated Sciences. His teaching and research focus on data science, artificial intelligence, cloud computing, GIS/geospatial analysis, and social data analytics.
+
+[Dr. Xuebin Wei on GitHub](https://github.com/xbwei) ·
+[School of Integrated Sciences](https://www.jmu.edu/cise/depts/sis/people/faculty.shtml) ·
 [IA 340 Course Site](https://jmu-data.github.io/IA340/) ·
-[IA 342 Course Site](https://jmu-data.github.io/IA342/) ·
-[JMU Intelligence Analysis](https://www.jmu.edu/cise/intelligence-analysis/)
+[IA 342 Course Site](https://jmu-data.github.io/IA342/)
