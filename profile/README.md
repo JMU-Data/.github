@@ -49,5 +49,8 @@ These resources are maintained by **[Dr. Xuebin Wei](https://www.jmu.edu/cise/pe
 
 His teaching and research focus on data science, artificial intelligence, cloud computing, GIS/geospatial analysis, and social data analytics.
 
+[GitHub Profile](https://github.com/xbwei) ·
+[JMU Faculty Profile](https://www.jmu.edu/cise/people/faculty/wei-xuebin.shtml) ·
+[School of Integrated Sciences](https://www.jmu.edu/cise/depts/sis/index.shtml) ·
 [IA 340 Course Site](https://jmu-data.github.io/IA340/) ·
 [IA 342 Course Site](https://jmu-data.github.io/IA342/)
